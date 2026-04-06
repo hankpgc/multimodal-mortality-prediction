@@ -4,7 +4,6 @@
   <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-2.4.1-EE4C2C?logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/CUDA-12.0-76B900?logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/License-MIT-green" />
 </p>
 
 > **碩士論文** · 國立中興大學 資訊工程學系 · 2025  
